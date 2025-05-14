@@ -4,84 +4,84 @@
 
 ## Steps:
 
-    ### Set Up a Local Git Repository:
+### Set Up a Local Git Repository:
 
-        Initialize a new Git repository in your local development environment.
+Initialize a new Git repository in your local development environment.
 
-        Create a new text file named README.md and add some initial project description or any content you choose.
+Create a new text file named README.md and add some initial project description or any content you choose.
 
-        Stage and commit this file with an appropriate commit message.
+Stage and commit this file with an appropriate commit message.
 
- 
 
-    ### Create a New GitHub Repository:
 
-        Create a new repository on GitHub with a meaningful name.
+### Create a New GitHub Repository:
 
-        Link your local repository to the remote GitHub repository (using git remote add).
+Create a new repository on GitHub with a meaningful name.
 
-        Push your local commits to the GitHub repository.
+Link your local repository to the remote GitHub repository (using git remote add).
 
- 
+Push your local commits to the GitHub repository.
 
-    ### Branching:
 
-        Create a new branch in your local repository called “dev”.
 
-        Switch to your new branch and create a new file called  hello.txt.
+### Branching:
 
-        Commit the changes to your new branch.
+Create a new branch in your local repository called “dev”.
 
- 
+Switch to your new branch and create a new file called  hello.txt.
 
-    ### Pushing the New Branch:
+Commit the changes to your new branch.
 
-        Push your new branch to GitHub, making sure it's reflected in your remote repository.
 
-        Verify that your new branch is visible on GitHub.
 
- 
+### Pushing the New Branch:
 
-    ### Create a Pull Request:
+Push your new branch to GitHub, making sure it's reflected in your remote repository.
 
-        Once the new changes have been committed and pushed, go to your GitHub repository.
+Verify that your new branch is visible on GitHub.
 
-        Open a pull request to merge your new branch into the main branch.
 
-        Provide a description of the changes you made in the pull request.
 
- 
+### Create a Pull Request:
 
-    ### Merge the Pull Request:
+Once the new changes have been committed and pushed, go to your GitHub repository.
 
-        After reviewing your pull request, merge the pull request into the main branch on GitHub.
+Open a pull request to merge your new branch into the main branch.
 
-        Ensure that your local main branch is updated after the merge.
+Provide a description of the changes you made in the pull request.
 
- 
 
-    ### Submission Instructions:
 
-        Once you have completed the above steps, ensure your GitHub repository is public.
+### Merge the Pull Request:
 
-        Share the link to your public GitHub repository where all the changes and pull requests can be viewed.
+After reviewing your pull request, merge the pull request into the main branch on GitHub.
+
+Ensure that your local main branch is updated after the merge.
+
+
+
+### Submission Instructions:
+
+Once you have completed the above steps, ensure your GitHub repository is public.
+
+Share the link to your public GitHub repository where all the changes and pull requests can be viewed.
 
 ---
 
 ### Deliverables:
 
-    A public GitHub repository link containing:
+A public GitHub repository link containing:
 
-        The initial commit with the README.md file.
+The initial commit with the README.md file.
 
-        A new branch with changes and a pull request created.
+A new branch with changes and a pull request created.
 
-        The pull request merged back into the main branch.
+The pull request merged back into the main branch.
 
 ---
 
 ### Important Notes:
 
-    Your repository should be structured neatly with meaningful commit messages and proper branch names.
+Your repository should be structured neatly with meaningful commit messages and proper branch names.
 
-    Ensure that the pull request is descriptive, mentioning the changes made and the purpose of those changes.
+Ensure that the pull request is descriptive, mentioning the changes made and the purpose of those changes.
