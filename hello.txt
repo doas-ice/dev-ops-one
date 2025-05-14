@@ -12,4 +12,7 @@ git branch dev
 git checkout dev
 git status
 nvim hello.txt
+git add .
+git commit -m "Created hello.txt containing commands used in the project"
+git push -u origin dev
 ```
