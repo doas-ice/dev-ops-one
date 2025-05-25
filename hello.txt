@@ -15,4 +15,21 @@ nvim hello.txt
 git add .
 git commit -m "Created hello.txt containing commands used in the project"
 git push -u origin dev
+aureri@archlinux dev-ops-one]$ git pull
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+[aureri@archlinux dev-ops-one]$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+git pull
+mkdir -p .github/workflows
+nvim .github/workflows/cat-hello-workflow.yml
+git status
+git add .
+git commit -m "Added Git Actions Workflow to read and output contents of hello.txt on push to main"
+git push origin main
+nvim hello.txt
 ```
